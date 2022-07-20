@@ -1,16 +1,16 @@
 <?php 
 
 // Read a line
-// $line = readline();
+echo $line = readline();
 // var_dump($line);
 
 
 // Add readline history
-// readline_add_history($line);
+readline_add_history($line);
 
 
 // Clear history
-// readline_clear_history();
+readline_clear_history();
 
 
 // var_dump(readline_info());
