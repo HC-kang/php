@@ -19,13 +19,13 @@
                 <div class="uk-navbar-right">
                     <div class="uk-navbar-nav">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/user/register.php">Register</a></li>
+                        <li><a href="/user/register">Register</a></li>
                         <?php if (array_key_exists('user', $_SESSION)) : ?>
-                            <li><a href="/user/update.php">My Page</a></li>
-                            <li><a href="/post/write.php">Write</a></li>
-                            <li><a href="/auth/logout.php">Sign Out</a></li>
+                            <li><a href="/user/update">My Page</a></li>
+                            <li><a href="/post/write">Write</a></li>
+                            <li><a href="/auth/logout">Sign Out</a></li>
                         <?php else: ?>
-                            <li><a href="/auth/login.php">Sign In</a></li>
+                            <li><a href="/auth/login">Sign In</a></li>
                         <?php endif;?>
                     </div>
                 </div>

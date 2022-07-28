@@ -35,3 +35,32 @@
 [2] Only arrays and Traversables can be unpacked in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
 [2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
 [8] Undefined index: username in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 126
+[2] call_user_func() expects parameter 1 to be a valid callback, function 'showLoginForm' not found or invalid function name in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 98
+[2] call_user_func() expects parameter 1 to be a valid callback, function 'showLoginForm' not found or invalid function name in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 98
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 58
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 64
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 58
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 64
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/middlewares/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/providers/middleware.php on line 10
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 58
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 64
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 58
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 64
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
