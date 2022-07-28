@@ -1,10 +1,10 @@
 <?php
 
 // Timezone
-date_default_timezone_set('Asia/Seoul');
+// date_default_timezone_set('Asia/Seoul');
 
 // Error Handling
-ini_set('display_errors', 'Off');
+// ini_set('display_errors', 'Off');
 
 // Database Connection (MySQL)
 $GLOBALS['DB_CONNECTION'] = mysqli_connect(

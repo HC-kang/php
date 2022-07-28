@@ -3,7 +3,7 @@
 function user()
 {
     if (array_key_exists('user', $_SESSION)) {
-        return $_session['user'];
+        return $_SESSION['user'];
     }
     return false;
 }
