@@ -7,9 +7,9 @@ $page = $page ?: 0;
 
 $stmt = mysqli_prepare(
     $GLOBALS['DB_CONNECTION'],
-    'SELECT * FROM posts ORDER BY id DESC LIMIT 1 OFFSET ?'
+    'SELECT * FROM posts ORDER BY id DESC LIMIT 3 OFFSET ?'
 );
-$page = $page * 1;
+$page = $page * 3;
 
 mysqli_stmt_bind_param($stmt, 'i', $page);
 
