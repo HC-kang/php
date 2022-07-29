@@ -64,3 +64,40 @@
 [8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
 [8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
 [2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 23
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 21
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 21
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56

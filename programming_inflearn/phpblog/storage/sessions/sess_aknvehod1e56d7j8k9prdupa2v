@@ -1,0 +1,1 @@
+CSRF_TOKEN|s:64:"9569bfcef87f9993b3fb52f228cfdc9d62098e76e5c11dcb532c57be6c561e84";user|a:4:{s:2:"id";i:11;s:5:"email";s:19:"phpblog@example.com";s:8:"password";s:60:"$2y$10$NHaK/6Ecomssx/sjedMV.OK/NM71kqH.sEft0YsMJLNYfUx0zL9ce";s:8:"username";s:7:"phpblog";}
