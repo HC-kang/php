@@ -101,3 +101,50 @@
 [8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
 [8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
 [2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/app/providers/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/bootstrap/app.php on line 21
+[2] filter_input_array() expects parameter 1 to be int, array given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 14
+[8] Undefined variable: createdAt in /Users/heechankang/projects/php/programming_inflearn/phpblog/resources/views/read.php on line 8
+[2] filter_input_array() expects parameter 1 to be int, array given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 14
+[8] Undefined variable: createdAt in /Users/heechankang/projects/php/programming_inflearn/phpblog/resources/views/read.php on line 8
+[2] filter_input_array() expects parameter 1 to be int, array given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 14
+[8] Undefined variable: createdAt in /Users/heechankang/projects/php/programming_inflearn/phpblog/resources/views/read.php on line 8
+[8] Undefined variable: createdAt in /Users/heechankang/projects/php/programming_inflearn/phpblog/resources/views/read.php on line 8
+[8] Undefined variable: createdAt in /Users/heechankang/projects/php/programming_inflearn/phpblog/resources/views/read.php on line 8
+[8] Undefined variable: email in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/auth.php on line 10
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[2] hash_equals(): Expected known_string to be a string, null given in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 65
+[2] assert(): assert(require_once(dirname(__DIR__) . &quot;/middlewares/$file.php&quot;)) failed in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/providers/middleware.php on line 10
+[8] Undefined variable: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 32
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined variable: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 32
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 41
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 42
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 41
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 42
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 41
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 42
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 41
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 42
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 41
+[8] Undefined index: id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/controllers/post.php on line 42
+[8] Undefined index: NULL in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 54
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/database.php on line 56
+[8] Undefined index: user_id in /Users/heechankang/projects/php/programming_inflearn/phpblog/app/lib/functions.php on line 44
