@@ -2,19 +2,44 @@
 
 require_once './vendor/autoload.php';
 
-use Eclair\Session\DatabaseSessionHandler;
-use Eclair\Database\Adaptor;
+use Eclair\Support\ServiceProvider;
+use Eclair\Application;
 
-Adaptor::setup('mysql:dbname=myapp_test', 'root', 'root');
+class SessionServiceProvider extends ServiceProvider
+{
+    public function register()
+    {
+        //session_set_save_handler
+        // Route:add
+    }
 
-session_set_save_handler(new DatabaseSessionHandler());
+    public function boot()
+    {
+        session_start();
+        // Route::run
+    }
+}
 
-session_start();
+new Application([
+    SessionServiceProvider::class
+]);
 
-$_SESSION['message'] = 'Hello, world';
-$_SESSION['foo'] = new stdClass();
+$app->boot();
 
-session_gc(10);
+// ---------------------------------------------------
+// use Eclair\Session\DatabaseSessionHandler;
+// use Eclair\Database\Adaptor;
+
+// Adaptor::setup('mysql:dbname=myapp_test', 'root', 'root');
+
+// session_set_save_handler(new DatabaseSessionHandler());
+
+// session_start();
+
+// $_SESSION['message'] = 'Hello, world';
+// $_SESSION['foo'] = new stdClass();
+
+// session_gc(10);
 
 
 // ---------------------------------------------------
