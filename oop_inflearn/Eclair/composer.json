@@ -1,0 +1,12 @@
+{
+    "name": "ford/eclair",
+    "description": "Eclair is a simple php micro framwork",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+           "Eclair\\": "src/"
+       }
+   },
+    "require": {}
+}
